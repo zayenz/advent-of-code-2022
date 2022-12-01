@@ -1,0 +1,18 @@
+{
+    "openFiles": [
+        "day01/day01-1.mzn",
+        "day01/day01-test.dzn",
+        "day01/day01-input.dzn",
+        "day01/day01-2.mzn"
+    ],
+    "openTab": 3,
+    "projectFiles": [
+        "day01/day01-1.mzn",
+        "day01/day01-2.mzn",
+        "day01/day01-input.dzn",
+        "day01/day01-test.dzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}
