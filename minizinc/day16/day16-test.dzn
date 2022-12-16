@@ -1,0 +1,28 @@
+Nodes = {AA, BB, CC, DD, EE, FF, GG, HH, II, JJ};
+
+first_node = AA;
+
+flow = [
+0,
+13,
+2,
+20,
+3,
+0,
+0,
+22,
+0,
+21,
+];
+
+connections = [
+{DD, II, BB},
+{CC, AA},
+{DD, BB},
+{CC, AA, EE},
+{FF, DD},
+{EE, GG},
+{FF, HH},
+{GG},
+{AA, JJ},
+{II}];
