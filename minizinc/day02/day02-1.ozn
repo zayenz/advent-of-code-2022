@@ -1,0 +1,2 @@
+output ["checksum: ",show(checksum),"\n"];
+int: checksum = 15;
